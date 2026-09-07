@@ -39,8 +39,13 @@ Key documents include:
 - `docs/Learning-Philosophy.md`
 - `docs/Design-Principles.md`
 - `docs/Thinking-Mission-Classification-Rule.md`
-- `docs/Story-Integrated-Thinking-Missions.md`
-- `docs/Case-01-Upside-Down-Map-Prototype-Spec.md`
+- `docs/story-missions/README.md`
+- `docs/story-missions/thinking-missions-in-a-story.md`
+- `docs/story-missions/framework.md`
+- `docs/story-missions/chapter-structure.md`
+- `docs/story-missions/mission-template.md`
+- `docs/story-missions/badge-system.md`
+- `docs/story-missions/case-01-upside-down-map-prototype-spec.md`
 - `docs/Prototype-Problem-Catalog.md`
 - `docs/Decision-Log.md`
 - `docs/Learner-Observation-Guide.md`
