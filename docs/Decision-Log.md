@@ -79,3 +79,51 @@ This file records important design choices and—more importantly—the reason e
 **Decision:** Each problem will have one printable PDF containing student pages plus a grown-up guide.
 
 **Why:** It is simpler to manage and keeps facilitation guidance with the corresponding activity.
+
+---
+
+## 2026-09-07 — Classify each Thinking Mission by one Primary Dimension and up to two Secondary Dimensions
+
+**Decision:** Every future Thinking Mission receives exactly one Primary Thinking Dimension and zero to two Secondary Thinking Dimensions.
+
+**Why:** This creates a usable capability map for curriculum planning. It allows the mission library to be balanced intentionally, makes gaps visible, and supports future requests such as creating more practice in elimination, working backward, representation, or strategy flexibility without reducing missions to school subjects.
+
+---
+
+## 2026-09-07 — Use short self-contained stories to unlock Thinking Missions
+
+**Decision:** Prototype a gamification layer in which a short mystery/adventure contains roughly five Thinking Missions. Completing each mission unlocks the next meaningful clue, scene, twist, or reveal.
+
+**Why:** Story progression can provide a stronger intrinsic reason to continue than generic points or worksheet completion. The learner solves the next mission partly because they want to discover what happens next.
+
+---
+
+## 2026-09-07 — Prefer chapter-length cases over one long continuous novel
+
+**Decision:** Each story-integrated case should normally have its own beginning, mystery/adventure, reveal, and ending rather than depending on one large continuous plot.
+
+**Why:** Short cases are easier to create, test, pause, revise, and vary. They reduce continuity burden and allow lessons from one case to improve the next without committing the project to a large story architecture.
+
+---
+
+## 2026-09-07 — Story unlocks must be meaningful, not filler rewards
+
+**Decision:** Each mission should unlock an actual story development: a clue, location, suspect, twist, funny complication, reveal, or finale step.
+
+**Why:** If story progression merely says “good job, now do another problem,” the narrative becomes cosmetic gamification. The story itself should be something the learner wants to continue.
+
+---
+
+## 2026-09-07 — Keep story and education as separate but cooperating design layers
+
+**Decision:** The educational architecture determines thinking dimensions, difficulty, hints, checking, and solution paths; the story architecture determines characters, suspense, humor, clues, and reveals. Connect them naturally when possible, but do not sacrifice a strong reasoning task simply to make it fit the plot.
+
+**Why:** This preserves educational quality and makes the system reusable across different stories, genres, and future learners.
+
+---
+
+## 2026-09-07 — Keep badges as a complementary layer, not the primary reward
+
+**Decision:** Continue using badges that recognize thinking behaviors, while treating story progression as the main chapter-level reward.
+
+**Why:** Badges make invisible reasoning behaviors visible and reinforce process recognition, but story curiosity may be a stronger sustained motivator than accumulating points. The badge system should never become a punitive score for correctness.
