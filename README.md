@@ -10,21 +10,41 @@ The first prototype series uses light fourth-grade-level math and logic so that 
 
 ## Current status
 
-Five initial printable missions have been designed around different reasoning moves:
+Five initial standalone printable missions have been designed around different reasoning moves:
 
-1. Time difference — finding useful anchors
-2. Working backward — reconstructing a starting state from an ending state
-3. Breaking into parts — decomposing and recombining a problem
-4. Sequencing — planning tasks against a time constraint
-5. Logic elimination — using known facts to rule out possibilities
+1. Time difference - finding useful anchors
+2. Working backward - reconstructing a starting state from an ending state
+3. Breaking into parts - decomposing and recombining a problem
+4. Sequencing - planning tasks against a time constraint
+5. Logic elimination - using known facts to rule out possibilities
 
-The first five missions are **prototypes, not a finalized curriculum template**. The next step is to observe a learner using them and revise the format and philosophy based on real behavior.
+The project is now also prototyping **story-integrated Thinking Missions**: short, self-contained mystery/adventure cases in which completing each Thinking Mission unlocks the next meaningful clue, scene, twist, or reveal.
+
+The first story-integrated prototype is **Case 01 - The Mystery of the Upside-Down Map**, built around five different Primary Thinking Dimensions:
+
+1. Representation & Model Building
+2. Working Backward
+3. Decomposition
+4. Elimination & Constraint Reasoning
+5. Sequencing & Planning
+
+All current materials remain **prototypes, not a finalized curriculum template**. The next step is to observe a learner using them and revise the format, story rhythm, difficulty, and philosophy based on real behavior.
 
 ## Documentation
 
 The repository records not only *what* is designed, but especially *why* each design decision exists. That rationale is the durable asset of the project.
 
-See `docs/` for the learning philosophy, design principles, prototype catalog, decision log, and observation guide.
+Key documents include:
+
+- `docs/Learning-Philosophy.md`
+- `docs/Design-Principles.md`
+- `docs/Thinking-Mission-Classification-Rule.md`
+- `docs/Story-Integrated-Thinking-Missions.md`
+- `docs/Case-01-Upside-Down-Map-Prototype-Spec.md`
+- `docs/Prototype-Problem-Catalog.md`
+- `docs/Decision-Log.md`
+- `docs/Learner-Observation-Guide.md`
+- `docs/Remy-Character-Guide.md`
 
 ## Working principle
 
