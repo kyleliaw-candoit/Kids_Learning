@@ -127,3 +127,21 @@ This file records important design choices and—more importantly—the reason e
 **Decision:** Continue using badges that recognize thinking behaviors, while treating story progression as the main chapter-level reward.
 
 **Why:** Badges make invisible reasoning behaviors visible and reinforce process recognition, but story curiosity may be a stronger sustained motivator than accumulating points. The badge system should never become a punitive score for correctness.
+
+---
+
+## 2026-09-07 — Require a rendered-page quality inspection before presentation
+
+**Decision:** Every learner-facing artifact must pass a dedicated production QA gate after generation and before it is presented as finished work. The complete PDF/document must be rendered page-by-page, every rendered page must be visually inspected, defects must be corrected, and affected pages must be re-rendered and re-inspected before release.
+
+**Why:** Text overflow, text/graphic collisions, clipping, weak illustration semantics, inaccurate functional diagrams, and age-inappropriate visual quality are production defects rather than legitimate curriculum experiments. A mandatory rendered-page review catches issues that code generation and source-level inspection can miss.
+
+The canonical process is documented in `docs/Production-Quality-Gate.md`.
+
+---
+
+## 2026-09-07 — Separate character simplicity from illustration richness
+
+**Decision:** Keep recurring characters such as Remy visually simple, iconic, and consistent while allowing story environments and mission illustrations to be substantially richer and more engaging for approximately nine-year-old learners. Functional puzzle graphics must remain precise and easy to read.
+
+**Why:** Simple character design supports recognition and reuse, but overly simple scene graphics can feel babyish or placeholder-like. The visual standard is: **simple characters, richer worlds, clear puzzle signals.**
