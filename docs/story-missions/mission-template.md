@@ -72,6 +72,35 @@ Which thinking behaviors might naturally earn recognition?
 
 Do not award badges merely for speed or correctness.
 
+## Illustration plan
+
+Identify the role of each planned visual before production:
+
+- **Story scene** — shows a meaningful place, action, or reveal;
+- **Functional graphic** — accurately supports reasoning, such as a map, route, clock, grid, table, or timeline;
+- **Character reaction** — communicates curiosity, confusion, effort, surprise, persistence, or pride.
+
+Apply the visual principle:
+
+> **Simple characters, richer worlds, clear puzzle signals.**
+
+Remy and recurring characters should remain simple and consistent. Story environments and mission illustrations should be visually richer and age-appropriate for approximately nine-year-old learners. Functional graphics must be logically precise and easy to interpret.
+
+## Production Quality Gate — REQUIRED BEFORE PRESENTATION
+
+Every generated mission or case must follow `../Production-Quality-Gate.md` before it is shown as finished work.
+
+Minimum workflow:
+
+1. generate the complete artifact;
+2. render **every page** to an image;
+3. inspect every rendered page for overflow, collisions, clipping, readability, writing space, diagram accuracy, illustration clarity, and age fit;
+4. fix all blocking defects;
+5. re-render and re-inspect affected pages;
+6. present only after the artifact is marked **QA passed**.
+
+A generated PDF that has not been rendered and visually inspected is still a draft.
+
 ## Grown-up notes
 
 Include:
