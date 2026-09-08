@@ -25,6 +25,13 @@ Use this sequence every time:
 
 If the output has not been rendered and visually inspected, it has not passed QA.
 
+Do not present a newly generated PDF immediately after generation. Generation success is not release approval.
+
+After corrections, perform two levels of reinspection:
+
+1. re-render and inspect every corrected page plus any adjacent page affected by reflow;
+2. render the complete final PDF again and inspect the full page sequence before delivery.
+
 ## Blocking production defects
 
 The following defects must be fixed before release:
@@ -66,6 +73,14 @@ Use the principle:
 > **Simple characters, richer worlds, clear puzzle signals.**
 
 Story scenes may include more visual detail, atmosphere, props, backgrounds, and environmental storytelling while keeping Remy and recurring characters simple and recognizable.
+
+Interpret “richer worlds” as richer than placeholder clip art, not as maximum detail. The approved focal hierarchy is now:
+
+> **Medium-detail characters and key objects; quieter backgrounds; clear puzzle signals.**
+
+Backgrounds must use fewer secondary props, broader shapes, softer contrast, and less texture than the focal characters and story-critical objects. The learner should notice the action or clue first and the setting second.
+
+See `Illustration-Production-Standard.md` for the complete complexity target.
 
 Functional mission graphics—maps, routes, clocks, timelines, grids, tables, diagrams—must be both visually engaging and logically precise.
 
@@ -131,6 +146,8 @@ Inspect every rendered page for:
 - hints do not reveal answers prematurely;
 - diagrams match the written problem exactly;
 - story illustrations are understandable and age-appropriate;
+- characters and key objects dominate quieter backgrounds;
+- background detail does not compete with the focal action or clue;
 - Remy remains visually consistent;
 - answer/guide content is not accidentally exposed on learner pages.
 
@@ -144,6 +161,19 @@ After page-level review, inspect the artifact as a whole:
 - Are repeated components consistent?
 - Is the visual richness appropriate for a nine-year-old without becoming distracting?
 - Does the artifact still reinforce **Path before answer**?
+
+## QA record
+
+For each production artifact, record at least:
+
+- total page count rendered and inspected;
+- defects found during the first inspection;
+- pages re-rendered after correction;
+- confirmation that corrected pages and affected neighbors passed reinspection;
+- confirmation that the complete final sequence passed visual review;
+- validation of all problem-critical diagrams against the written specification.
+
+The QA record may live in production notes, a pull request, or the delivery report. It does not need to appear inside the learner-facing PDF.
 
 ## Automated guardrails
 

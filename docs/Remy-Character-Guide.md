@@ -39,20 +39,25 @@ Typical Remy attitudes include:
 
 ## Visual style
 
-Use a **simple, flat children's-cartoon style** with strong personality.
+Use a **simple, expressive character design rendered in a medium-complexity hand-drawn children's editorial style**.
 
 Key traits:
 
-- thick, rounded outlines;
-- simple shapes and silhouettes;
-- relatively few internal detail lines;
-- flat or very lightly shaded color areas;
+- thick, rounded outlines with subtle hand-drawn variation;
+- simple shapes and clean silhouettes;
+- a limited number of purposeful internal detail lines;
+- lightly textured color and restrained gentle shading;
+- a few useful dimensional details, such as fur tufts, clothing folds, seams, or prop construction;
 - large expressive eyes;
 - exaggerated facial expressions and body poses;
 - readable at small worksheet size;
 - playful without looking preschool-like.
 
-Avoid overly realistic fur rendering, complex textures, painterly shading, or highly detailed line work.
+Avoid flat geometric clip art, but also avoid realistic fur rendering, dense texture, painterly shading, glossy 3D treatment, or highly detailed line work.
+
+The character should carry more line clarity and contrast than the background. Future backgrounds should be quieter, simpler, and less textured so Remy and the story-critical objects remain the first things the learner notices.
+
+See `Illustration-Production-Standard.md` for the complete production target and focal-hierarchy rules.
 
 ## Core appearance
 
@@ -88,3 +93,5 @@ Remy's job is to reinforce the message:
 > You do not have to know the answer right away. You can notice, try, check, and try again.
 
 The character should make productive struggle feel normal, safe, and fun.
+
+The repository reference defines Remy's identity. The approved production treatment adds hand-drawn warmth and modest dimensionality without changing that identity.
