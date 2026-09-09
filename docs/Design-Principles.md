@@ -75,7 +75,7 @@ Why: personality increases engagement, while simpler visual construction keeps t
 
 ## 7. Keep the page visually inviting but not babyish
 
-The materials should feel playful for an elementary-school learner without resembling preschool worksheets.
+The materials should feel playful and appealing to children around age ten and older while remaining readable and solvable by the current nine-year-old learner. "Older-kid" describes the tone and appeal; it does not require unnecessarily difficult vocabulary, longer prose, or harder computation.
 
 Current direction:
 - restrained color palette;
@@ -83,9 +83,18 @@ Current direction:
 - modest header sizes;
 - moderate problem-text size;
 - smaller mascot footprint so the activity remains primary;
-- playful mission language.
+- playful mission language;
+- middle-grade illustrated-fiction presentation rather than a toddler picture-book treatment.
 
-## 8. Treat paper as interactive
+## 8. Use personality-driven humor
+
+Mystery, adventure, and detective work should remain central, but recurring characters should have distinct, funny personalities rather than functioning as generic educational guides.
+
+Humor should arise from character behavior, contrasting temperaments, comic complications, and memorable verbal habits. It should increase curiosity about the story without obscuring instructions or turning a reasoning task into a distraction.
+
+Remy, as the main recurring character, should have a recognizable comic identity in addition to being curious and encouraging.
+
+## 9. Treat paper as interactive
 
 Paper is not considered a limitation.
 
@@ -99,7 +108,7 @@ The learner can:
 
 Why: the goal is to discover the right learning interaction before investing in an app.
 
-## 9. Do not standardize too early
+## 10. Do not standardize too early
 
 The first several problems are prototypes.
 
@@ -107,7 +116,7 @@ A master template should be extracted only after observing how the learner actua
 
 Why: premature standardization risks making a polished system around assumptions that have not yet been tested.
 
-## 10. One printable package per problem
+## 11. One printable package per problem
 
 Current production convention: one PDF per problem, with the grown-up guide included at the end.
 
