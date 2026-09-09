@@ -84,7 +84,7 @@ Apply the visual principle:
 
 > **Simple characters, richer worlds, clear puzzle signals.**
 
-Remy and recurring characters should remain simple and consistent. Story environments and mission illustrations should be visually richer and age-appropriate for approximately nine-year-old learners. Functional graphics must be logically precise and easy to interpret.
+Interpret “richer worlds” as richer than placeholder clip art, not as maximum detail. Use medium-detail, expressive characters and key objects; quieter backgrounds; purposeful negative space; and only a few distinctive setting cues. Grayscale is acceptable. When using color, use a small coordinated palette. Functional graphics must be logically precise and easy to interpret.
 
 ## Production Quality Gate — REQUIRED BEFORE PRESENTATION
 
