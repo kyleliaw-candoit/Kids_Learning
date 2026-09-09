@@ -4,25 +4,40 @@
 
 This document defines the approved illustration complexity and focal hierarchy for future Thinking Detectives production versions. It complements the identity rules in `Remy-Character-Guide.md` and the release process in `Production-Quality-Gate.md`.
 
-The target learner is approximately nine years old. The artwork should feel like a lively illustrated adventure, not a preschool worksheet, generic clip art, or a densely rendered picture book.
+The current learner is nine years old, while the desired appeal is approximately age ten and older. The artwork should feel like lively middle-grade illustrated fiction, not a preschool worksheet, generic clip art, or a densely rendered toddler picture book.
 
 ## Approved visual target
 
-Use a **medium-complexity hand-drawn children's editorial style**.
+Use a **medium-complexity, hand-drawn middle-grade illustrated-fiction/editorial style**.
 
 The approved treatment includes:
 
-- lively ink or pencil linework with modest line variation and human warmth;
-- lightly textured color, such as restrained colored-pencil or dry-gouache grain;
+- confident ink or pencil linework with modest line variation and human warmth;
+- grayscale, black-and-white line art, or lightly textured color using a restrained coordinated palette;
 - gentle, limited shading that gives characters and important objects dimensionality;
 - expressive faces, readable poses, and clean silhouettes;
 - purposeful construction details such as a few fur tufts, folds, seams, wood marks, or clue textures;
-- enough sophistication to interest a nine-year-old while remaining clear at printable workbook size.
+- enough sophistication to appeal to children around age ten and older while remaining clear and accessible to the current nine-year-old learner at printable workbook size;
+- purposeful negative space so illustrations support the prose and missions rather than filling every available area.
 
 Avoid both extremes:
 
 - **too simple:** flat geometric clip art, generic symbols, empty scenes, preschool styling, or illustrations that feel like placeholders;
-- **too detailed:** painterly rendering, dense crosshatching, realistic fur, excessive props, high-frequency texture, glossy 3D treatment, or backgrounds that demand as much attention as the story action.
+- **too detailed:** edge-to-edge painterly rendering, dense crosshatching, realistic fur, excessive props, high-frequency texture, glossy 3D treatment, uniformly saturated color, or backgrounds that demand as much attention as the story action.
+
+## Color strategy
+
+Both grayscale and color are approved for interior pages.
+
+When color is used:
+
+- use a small, coordinated palette rather than assigning a bright color to every object;
+- reserve stronger contrast or accent color for focal characters, actions, clues, and mission-critical objects;
+- reduce color variation and saturation in secondary scenery;
+- allow covers, reveals, and major story moments to use stronger color while retaining palette discipline;
+- judge color by hierarchy and purpose, not by the number of filled areas.
+
+The exact palette may vary by case or location. Palette restraint is the durable production rule.
 
 ## Focal hierarchy
 
@@ -42,6 +57,18 @@ Use these controls to keep the hierarchy clear:
 - generous open space around important actions and clues.
 
 Story environments should still establish place, mood, and adventure. “Quieter” does not mean blank. It means the child should notice the character, action, or clue first and understand the setting second.
+
+Use only a few distinctive setting cues when a location's identity or mood matters but its details are not clues. An unusual storefront, sign, architectural shape, or silhouette may establish the setting while the remaining environment stays minimal. Setting cues must remain subordinate to the focal action and must not accidentally look like unexplained puzzle information.
+
+Use this detail hierarchy:
+
+| Visual element | Approved treatment |
+| --- | --- |
+| Mission-critical clue or functional diagram | Highest precision, clarity, and readability |
+| Main character and important action | Medium detail, expressive acting, and strong silhouette |
+| Key story object or active supporting character | Enough detail to communicate its role clearly |
+| Setting cues | Simplified linework, shapes, or limited tonal/color blocks |
+| Pure decoration | Usually omit |
 
 ## Character treatment
 
@@ -65,7 +92,7 @@ Story art should:
 
 - show a meaningful place, action, emotion, discovery, or reveal;
 - concentrate the focal action away from crop edges;
-- include only props that clarify the story or strengthen atmosphere;
+- include only props that clarify the story or provide a small number of distinctive setting cues;
 - keep backgrounds subordinate to the focal subjects;
 - remain consistent with the surrounding text.
 
@@ -89,7 +116,7 @@ Generated story art must not be used as the sole source for exact puzzle informa
 Before producing a full case:
 
 1. Read the current learning philosophy, story-mission framework, case specification, character guide, this illustration standard, and Production Quality Gate.
-2. Create and approve a small style anchor when the visual direction has changed. A three-pose Remy sheet is an appropriate character anchor.
+2. Create and approve a small style anchor when the visual direction has changed. For the next production cycle, test the middle-grade treatment and palette restraint before treating the exact execution as fixed. A three-pose Remy sheet is an appropriate character anchor.
 3. Write a clear role for each illustration: tell the story, support reasoning, or show character emotion.
 4. Keep text and artwork in separate, reserved layout regions.
 5. Build exact functional diagrams independently from story art.
@@ -97,6 +124,6 @@ Before producing a full case:
 
 ## Version 002 observation
 
-The illustrations produced for `Case1_UpsideDownMap_002.pdf` were accepted for that version. Their character style and overall complexity are usable reference points.
+The illustrations produced for `Case1_UpsideDownMap_002.pdf` were accepted for that version, but learner feedback identified their densely detailed, colorful, uniformly picturesque treatment as feeling too much like a younger child's picture book. They are a production and continuity reference, not the visual target for the next case.
 
-However, some Version 002 environments are more detailed than the preferred future target. Do not copy their background density literally. Future production should retain the approved hand-drawn character and focal-object complexity while simplifying environmental detail so it does not compete with the main action.
+Do not copy their background density, broad palette, or edge-to-edge finish literally. Future production should retain expressive hand-drawn characters and clear focal objects while using a more middle-grade visual language, restrained color, purposeful negative space, and simpler environmental detail.
