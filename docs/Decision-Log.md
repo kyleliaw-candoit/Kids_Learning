@@ -163,3 +163,51 @@ The complete standard is documented in `docs/Illustration-Production-Standard.md
 **Decision:** When the first rendered-page inspection finds defects, correct them, re-render the affected pages and any adjacent pages influenced by reflow, then render and inspect the complete final PDF again before delivery. Record the page count, defects, corrections, and final result.
 
 **Why:** An affected-page recheck confirms the local correction, while a final full-sequence pass confirms that the delivered artifact—not an earlier intermediate build—is the version that passed QA.
+
+---
+
+## 2026-09-09 — Target older-kid appeal without raising the accessibility floor
+
+**Decision:** Future Thinking Detectives stories should feel entertaining to children around age ten and older while remaining readable and solvable by the current nine-year-old learner. The older-kid target applies to tone, humor, characterization, and presentation; it does not automatically require harder vocabulary, longer prose, or more difficult computation.
+
+**Why:** Amira's response to Case 01 showed that age appeal and learning accessibility are separate design variables. The project can feel more sophisticated and entertaining without placing unnecessary reading or computational demands in front of the intended reasoning work.
+
+---
+
+## 2026-09-09 — Use personality-driven humor and strengthen Remy as the lead
+
+**Decision:** Preserve mystery, adventure, and detective work while giving recurring characters distinct, funny personalities. Give Remy a clearer comic identity in addition to his established role as a curious thinking sidekick. Before Case 02 planning, conduct a short Character Lab after its requirements are approved.
+
+**Why:** Amira responds to characters whose contrasting personalities create funny complications. A stronger main character can increase story motivation, while humor rooted in character behavior is less likely to feel pasted onto the learning experience.
+
+---
+
+## 2026-09-09 — Preserve Amira's characters as an optional cast pool
+
+**Decision:** Record Sunburned Calamary, Cammy Clammy, Frank, and Steve as optional world-building resources. Do not require all—or any—of them in Case 02. Select characters only when they improve a particular story, and allow new characters when needed.
+
+**Why:** Preserving Amira's ideas provides authentic information about the humor she enjoys without forcing the next case around a predetermined ensemble. The cast pool is documented in `docs/Character-Cast-Pool.md`.
+
+---
+
+## 2026-09-09 — Adopt a middle-grade illustrated-fiction visual language
+
+**Decision:** Move future production away from Case 01's densely detailed, colorful, uniformly picturesque treatment and toward confident hand-drawn linework, expressive character acting, selective detail, purposeful negative space, and a middle-grade illustrated-fiction/editorial presentation.
+
+**Why:** Amira described the Case 01 treatment as resembling a toddler's picture book. Reference examples for older readers showed that funny, appealing illustration can use simpler compositions, stronger linework, and more selective visual information. The exact execution should first be tested through a small style anchor rather than assumed final.
+
+---
+
+## 2026-09-09 — Permit grayscale and require palette restraint when using color
+
+**Decision:** Interior illustrations may use grayscale, black-and-white line art, or color. When color is used, use a small coordinated palette, reserving stronger contrast and accents for focal characters, actions, clues, and key objects.
+
+**Why:** Older-reader reference examples use both grayscale interiors and colorful covers successfully. The meaningful standard is disciplined color hierarchy, not a universal requirement for either monochrome or full color.
+
+---
+
+## 2026-09-09 — Use only a few distinctive setting cues in quiet backgrounds
+
+**Decision:** If a location matters to the identity or mood of the adventure, establish it with a few distinctive cues while leaving incidental scenery minimal. Pure decoration should normally be omitted. Setting cues must remain subordinate to the focal action and must not resemble unexplained clues.
+
+**Why:** A location can feel specific without rendering every tree, flower, building, or prop. Selective setting cues preserve atmosphere, reduce visual noise and production cost, and make story-critical and mission-critical information easier to find.
