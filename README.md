@@ -50,9 +50,21 @@ Key documents include:
 - `docs/Decision-Log.md`
 - `docs/Learner-Observation-Guide.md`
 - `docs/Remy-Character-Guide.md`
+- `docs/Illustration-Production-Standard.md`
+- `docs/Production-Quality-Gate.md`
+- `docs/production-notes/Case1_UpsideDownMap_002-QA.md`
 
 ## Working principle
 
 **Path before answer.**
 
 A correct answer matters, but the primary learning target is the learner's ability to construct a sensible path toward it.
+
+## Printable assets
+
+Ready-to-use PDFs are organized under `assets/`:
+
+- `assets/stand-alone-missions/`
+- `assets/missions-in-story/`
+
+See `assets/README.md` for the current file index.

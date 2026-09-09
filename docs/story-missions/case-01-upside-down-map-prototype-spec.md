@@ -4,6 +4,8 @@
 
 Prototype for the first story-integrated Thinking Missions case.
 
+The production and rendered-page QA record for Version 002 is documented in `../production-notes/Case1_UpsideDownMap_002-QA.md`.
+
 The story is a short mystery/adventure featuring Remy the Raccoon. Five Thinking Missions are embedded at natural suspense points. Completing each mission unlocks the next story development.
 
 ## Case goal

@@ -145,3 +145,21 @@ The canonical process is documented in `docs/Production-Quality-Gate.md`.
 **Decision:** Keep recurring characters such as Remy visually simple, iconic, and consistent while allowing story environments and mission illustrations to be substantially richer and more engaging for approximately nine-year-old learners. Functional puzzle graphics must remain precise and easy to read.
 
 **Why:** Simple character design supports recognition and reuse, but overly simple scene graphics can feel babyish or placeholder-like. The visual standard is: **simple characters, richer worlds, clear puzzle signals.**
+
+---
+
+## 2026-09-07 — Calibrate future backgrounds below focal subjects
+
+**Decision:** Use the approved medium-complexity hand-drawn treatment for Remy, recurring characters, and story-critical objects. Make future backgrounds simpler, quieter, and less detailed than those focal subjects by reducing secondary props, contrast, texture, and color variation.
+
+**Why:** The Case 01 Version 002 illustrations were accepted, but their environments were sometimes more detailed than expected and could compete with the characters and clues. A nine-year-old should first notice the character, action, or important object, then understand the environment. The updated production rule is: **medium-detail characters and key objects; quieter backgrounds; clear puzzle signals.**
+
+The complete standard is documented in `docs/Illustration-Production-Standard.md`.
+
+---
+
+## 2026-09-07 — Require a final full-sequence QA pass after corrections
+
+**Decision:** When the first rendered-page inspection finds defects, correct them, re-render the affected pages and any adjacent pages influenced by reflow, then render and inspect the complete final PDF again before delivery. Record the page count, defects, corrections, and final result.
+
+**Why:** An affected-page recheck confirms the local correction, while a final full-sequence pass confirms that the delivered artifact—not an earlier intermediate build—is the version that passed QA.
