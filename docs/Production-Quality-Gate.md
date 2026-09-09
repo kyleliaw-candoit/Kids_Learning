@@ -57,7 +57,7 @@ The following defects must be fixed before release:
 
 ### Illustration quality and age fit
 
-Characters should remain visually simple and consistent, but story environments and mission graphics should feel rich enough for approximately nine-year-old learners.
+Characters should remain visually simple and consistent, while the overall treatment should feel like middle-grade illustrated fiction: appealing around age ten and older while remaining clear to the current nine-year-old learner.
 
 Reject or revise illustrations that:
 
@@ -72,7 +72,7 @@ Use the principle:
 
 > **Simple characters, richer worlds, clear puzzle signals.**
 
-Story scenes may include more visual detail, atmosphere, props, backgrounds, and environmental storytelling while keeping Remy and recurring characters simple and recognizable.
+Story scenes may include purposeful atmosphere and a few distinctive setting cues while keeping Remy and recurring characters simple and recognizable. Do not use edge-to-edge environmental detail merely to make a scene feel finished.
 
 Interpret “richer worlds” as richer than placeholder clip art, not as maximum detail. The approved focal hierarchy is now:
 
@@ -146,6 +146,9 @@ Inspect every rendered page for:
 - hints do not reveal answers prematurely;
 - diagrams match the written problem exactly;
 - story illustrations are understandable and age-appropriate;
+- artwork feels middle-grade rather than like a toddler picture book;
+- color, when used, follows a restrained coordinated palette;
+- open space is preserved where it improves hierarchy and readability;
 - characters and key objects dominate quieter backgrounds;
 - background detail does not compete with the focal action or clue;
 - Remy remains visually consistent;
@@ -159,7 +162,7 @@ After page-level review, inspect the artifact as a whole:
 - Are story sections and missions visually distinguishable?
 - Does the learner know when to stop, solve, use hints, and continue?
 - Are repeated components consistent?
-- Is the visual richness appropriate for a nine-year-old without becoming distracting?
+- Does the visual treatment have middle-grade appeal without becoming distracting or inaccessible to the current learner?
 - Does the artifact still reinforce **Path before answer**?
 
 ## QA record
