@@ -16,6 +16,8 @@ Remy is a **thinking sidekick**, not an all-knowing teacher. He models curiosity
 
 He should feel like a kid's funny detective buddy who is figuring things out alongside the learner.
 
+Because Remy is the main recurring character, he also needs a recognizable comic identity. He should not be only a pleasant mascot who delivers instructions. His curiosity, reactions, mistakes, habits, and interactions should generate personality-driven humor while preserving his role as a safe thinking companion.
+
 ## Personality
 
 Remy should be:
@@ -29,6 +31,8 @@ Remy should be:
 - comfortable looking confused sometimes;
 - proud of effort and persistence, not only correct answers.
 
+Before the next case is planned, use a short Character Lab to define Remy's comic engine more specifically: what he tends to overdo, what reliably excites or flusters him, how he reacts when a theory fails, and how his personality contrasts with selected supporting characters. This is characterization work, not permission to change his approved visual identity or learning role.
+
 Typical Remy attitudes include:
 
 - “Hmm... what do I notice?”
@@ -39,7 +43,7 @@ Typical Remy attitudes include:
 
 ## Visual style
 
-Use a **simple, expressive character design rendered in a medium-complexity hand-drawn children's editorial style**.
+Use a **simple, expressive character design rendered in a medium-complexity hand-drawn middle-grade editorial style**.
 
 Key traits:
 
@@ -72,7 +76,11 @@ Remy is a gray raccoon with:
 - blue magnifying glass when investigating;
 - occasional pencil/notepad props.
 
-Accent colors may include blue, yellow, green, lavender, pink, and pale mint, matching the approved character sheet.
+Accent colors may include blue, yellow, green, lavender, pink, and pale mint, matching the approved character sheet. A single illustration should select only the accents it needs; it does not need to use the full available palette.
+
+## Supporting cast
+
+Potential recurring characters and their current comic concepts are recorded in `Character-Cast-Pool.md`. They are optional world-building resources, not a required ensemble. Select supporting characters only when their personality or story function improves a particular case.
 
 ## Expression set
 
