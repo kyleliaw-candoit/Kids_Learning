@@ -87,6 +87,14 @@ Determines:
 
 The two layers should support each other without becoming inseparable. This allows the same educational architecture to be used in different stories and prevents narrative convenience from dictating weak pedagogy.
 
+## Audience and humor
+
+The current story target is approximately age ten and older in appeal while remaining readable and solvable by the current nine-year-old learner. Do not interpret the older-kid target as a requirement for unnecessarily difficult vocabulary or longer story sections.
+
+Keep the mystery, adventure, and detective work, but favor characters with memorable, contrasting personalities and humor rooted in their behavior. Silly complications may advance the action or reveal character, but they must not obscure instructions, clues, or the reasoning task.
+
+Remy should have a stronger comic identity as the main recurring character. Optional supporting-character concepts live in `../Character-Cast-Pool.md`; they are resources rather than required cast members.
+
 ## Thinking Dimension classification
 
 Every mission receives:
