@@ -46,6 +46,7 @@ Key documents include:
 - `docs/story-missions/mission-template.md`
 - `docs/story-missions/badge-system.md`
 - `docs/story-missions/case-01-upside-down-map-prototype-spec.md`
+- `docs/story-missions/case-02-requirements.md`
 - `docs/Prototype-Problem-Catalog.md`
 - `docs/Decision-Log.md`
 - `docs/Learner-Observation-Guide.md`
