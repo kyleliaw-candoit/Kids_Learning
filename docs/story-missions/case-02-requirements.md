@@ -2,7 +2,7 @@
 
 ## Status
 
-**Draft — awaiting explicit approval before Case 02 concept development.**
+**Approved — requirements approved on 2026-09-10. Case 02 may proceed to canonical-material review and the text-first Character Lab; later approval gates remain in force.**
 
 This document defines the boundaries for Case 02. It does not select a story, missions, setting, or cast.
 
@@ -297,4 +297,6 @@ The Character Lab will strengthen Remy and clarify the optional character pool. 
 
 ## Approval record
 
-No approval is recorded yet. Explicit user approval is required before Case 02 concept or educational-architecture development begins.
+The user explicitly approved these Case 02 requirements on 2026-09-10.
+
+This approval authorizes the next defined stages: re-read the current canonical materials, conduct the text-first Character Lab, design the educational architecture, and develop the combined educational/story plan. It does not authorize final illustration or PDF production before the later plan and style-anchor approval gates are satisfied.
