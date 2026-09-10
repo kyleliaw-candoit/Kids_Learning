@@ -12,6 +12,7 @@ The core idea is simple: a child progresses through a short, self-contained myst
 - `mission-template.md` — reusable specification for embedding one Thinking Mission into a story; includes the mandatory QA gate
 - `badge-system.md` — complementary badge layer that recognizes thinking behaviors
 - `case-01-upside-down-map-prototype-spec.md` — first complete story-mission prototype specification
+- `case-02-requirements.md` — pre-development requirements and approval gates for Case 02
 - `../Production-Quality-Gate.md` — mandatory rendered-page inspection process for every learner-facing artifact before presentation
 
 ## Working principle
