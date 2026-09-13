@@ -184,7 +184,7 @@ The complete standard is documented in `docs/Illustration-Production-Standard.md
 
 ## 2026-09-09 — Preserve Amira's characters as an optional cast pool
 
-**Decision:** Record Sunburned Calamary, Cammy Clammy, Frank, and Steve as optional world-building resources. Do not require all—or any—of them in Case 02. Select characters only when they improve a particular story, and allow new characters when needed.
+**Decision:** Record Sunburned Calamari, Cammy Clammy, Frank, and Steve as optional world-building resources. Do not require all—or any—of them in Case 02. Select characters only when they improve a particular story, and allow new characters when needed.
 
 **Why:** Preserving Amira's ideas provides authentic information about the humor she enjoys without forcing the next case around a predetermined ensemble. The cast pool is documented in `docs/Character-Cast-Pool.md`.
 
@@ -211,3 +211,22 @@ The complete standard is documented in `docs/Illustration-Production-Standard.md
 **Decision:** If a location matters to the identity or mood of the adventure, establish it with a few distinctive cues while leaving incidental scenery minimal. Pure decoration should normally be omitted. Setting cues must remain subordinate to the focal action and must not resemble unexplained clues.
 
 **Why:** A location can feel specific without rendering every tree, flower, building, or prop. Selective setting cues preserve atmosphere, reduce visual noise and production cost, and make story-critical and mission-critical information easier to find.
+
+
+---
+
+## 2026-09-13 — Define Remy as an enthusiastic over-detective
+
+**Decision:** Adopt **enthusiastic over-detective** as Remy's provisional comic identity. Remy is genuinely observant and clever, but his excitement can lead him to promote an interesting clue into a complete theory too quickly. He responds to contradictory evidence by checking, revising, and continuing without shame.
+
+**Why:** This gives the main character a recognizable source of personality-driven humor while directly modeling the project's reasoning loop. Remy is strong at noticing, starting, and trying; the learner can help him slow down, test a theory, catch an ignored fact, or build another path. His flaw is overenthusiasm, not incompetence.
+
+The approved characterization, voice bank, habits, learner relationship, guardrails, character contrasts, and Case 02 observation targets are documented in `docs/Remy-Character-Lab.md`.
+
+---
+
+## 2026-09-13 — Correct the name Sunburned Calamari
+
+**Decision:** The character's full name is **Sunburned Calamari**. His friends call him **Calamari**.
+
+**Why:** This corrects the earlier misspelling “Calamary” and preserves the creator's intended character name and everyday nickname.
