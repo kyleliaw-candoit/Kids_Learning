@@ -297,3 +297,22 @@ The complete approved plan is documented in `docs/story-missions/case-02-combine
 **Why:** The refined anchor preserves personality and middle-grade appeal while reducing visual noise and unnecessary production detail. It establishes a clearer hierarchy between expressive characters, important objects, and quiet background cues.
 
 **Gate:** The next stage is the text-first learner and grown-up manuscript plus page-by-page production specification and awaits explicit authorization. Full illustration production and PDF generation remain later stages.
+
+
+---
+
+## 2026-09-13 — State each mission objective before clues or steps
+
+**Decision:** Every Thinking Mission must explicitly state its objective before presenting clues, information, rules, or solving steps. The objective must tell the learner what they are trying to find out or accomplish and make clear why the supplied information is useful.
+
+**Why:** During the Case 02 PDF review, all five missions required the reader to interpret clues or follow reasoning steps before the intended outcome was clear. Without knowing what they were solving for, the learner could not know how to use the information. Mission-purpose clarity is therefore a production requirement, not optional explanatory copy.
+
+---
+
+## 2026-09-13 — Verify marker-to-text alignment during rendered-page QA
+
+**Decision:** Checkboxes, bullets, icons, and other markers must be visually aligned with the text they identify. QA must also catch missing first markers, orphan markers after the final item, and inconsistent marker-to-text spacing.
+
+**Why:** The Case 02 review found checkboxes and list bullets shifted vertically by approximately one item, making labels appear disconnected from their markers. Source-level generation did not catch the defect; rendered-page inspection did.
+
+Both requirements are incorporated into `docs/Production-Quality-Gate.md`.
