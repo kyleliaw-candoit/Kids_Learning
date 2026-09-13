@@ -16,6 +16,9 @@ Files in `stand-alone-missions/` can be used independently:
 Files in `missions-in-story/` combine a self-contained story with multiple Thinking Missions:
 
 - `Case1_UpsideDownMap_002.pdf`
+- `Case2_RunawayRobot_001.pdf`
+
+Case 02 production illustrations are stored in `case-02/illustrations/`. Exact learner-facing charts, maps, tables, cards, and writing regions are constructed in the PDF rather than generated as artwork.
 
 ## Character References
 
@@ -26,4 +29,3 @@ Canonical recurring-character references remain in `remy/`.
 Approved case-specific visual references are stored in `style-anchors/`:
 
 - `Case02_Style_Anchor_001.jpg` — approved character, palette, texture, and background treatment for *The Case of the Runaway Robot*
-
