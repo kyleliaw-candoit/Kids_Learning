@@ -212,7 +212,6 @@ The complete standard is documented in `docs/Illustration-Production-Standard.md
 
 **Why:** A location can feel specific without rendering every tree, flower, building, or prop. Selective setting cues preserve atmosphere, reduce visual noise and production cost, and make story-critical and mission-critical information easier to find.
 
-
 ---
 
 ## 2026-09-13 — Define Remy as an enthusiastic over-detective
