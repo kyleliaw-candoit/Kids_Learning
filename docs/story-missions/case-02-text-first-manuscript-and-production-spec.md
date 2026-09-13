@@ -86,7 +86,13 @@ You are Remy's thinking partner. During this investigation, you will:
 
 You do not need to know the perfect path before you begin.
 
-> **Find somewhere to start. Try a path. Check it. Revise if you need to.**
+> **Look for a fact or clue you can start with.**
+>
+> **Use it to try a path.**
+>
+> **Check your path.**
+>
+> **Revise if you need to.**
 
 ### Small instruction box
 
