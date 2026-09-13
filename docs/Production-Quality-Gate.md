@@ -45,7 +45,22 @@ The following defects must be fixed before release:
 - headings or labels collide with content;
 - awkward line breaks materially reduce readability;
 - insufficient margins or unsafe print areas;
-- writing areas are too small for the task.
+- writing areas are too small for the task;
+- checkboxes, bullets, icons, or other markers are not visually aligned with the text they identify;
+- a list has a missing first marker, an orphan marker after the final item, or inconsistent marker-to-text spacing.
+
+### Mission objective clarity
+
+Every Thinking Mission must explicitly state its objective before presenting clues, information, rules, or solving steps.
+
+The objective must:
+
+- tell the learner what they are trying to find out or accomplish;
+- be concrete enough to explain why the provided clues, information, rules, or steps are useful;
+- appear before the learner is expected to interpret or act on that information;
+- be understandable without requiring the learner to infer the task from the surrounding story.
+
+During QA, ask: **Can the learner state what they are solving for before using the clues or steps?** If not, revise the mission before release.
 
 ### Illustration placement
 
@@ -138,6 +153,9 @@ Inspect every rendered page for:
 - no overflow;
 - no collisions;
 - no clipping;
+- every mission states its objective before clues, information, rules, or solving steps;
+- the stated objective makes the purpose of the supplied information clear;
+- checkboxes, bullets, icons, and other markers align visually with their associated text;
 - readable font sizes;
 - balanced whitespace;
 - adequate response/writing space;
