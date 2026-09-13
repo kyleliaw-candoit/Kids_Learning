@@ -1,0 +1,17 @@
+const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/strict');
+const elements={};const el=id=>elements[id]??={focus(){},scrollIntoView(){}};
+const ctx=vm.createContext({document:{getElementById:el},localStorage:{getItem(){return null},setItem(){}},window:{addEventListener(){}},location:{hash:''},scrollTo(){},scrollY:0});
+vm.runInContext(fs.readFileSync('dist/app.js','utf8')+'\n'+fs.readFileSync('dist/case2.js','utf8')+'\n'+fs.readFileSync('dist/navigation-route.js','utf8'),ctx);
+const run=s=>vm.runInContext(s,ctx);
+const good={2:{interval:'25',distance:'75',destination:'Prototype Plaza'},3:{explanation:'delivery'},4:{route:['Blue Arch','Workshop Hall','Ground Passage','Control Booth']},5:{order:['Charging Dock','Snack Lab','Bubble Lab','Gear Gallery','Final Station'],destination:'Final Station'}};
+for(const n of [2,3,4,5]){ctx.n=n;ctx.a={...good[n],path:'My own explanation, preserved without grading.',checked:true};assert.equal(run('evaluateMore(n,a).kind'),'success');ctx.a.checked=false;assert.equal(run('evaluateMore(n,a).kind'),'missing');ctx.a.path='';ctx.a.spoken=true;ctx.a.checked=true;assert.equal(run('evaluateMore(n,a).kind'),'success');}
+for(const [n,a] of [[2,{interval:'50',distance:'75',destination:'Prototype Plaza'}],[3,{explanation:'remote'}],[4,{route:['Blue Arch','Control Booth']}],[4,{route:['Blue Arch','Striped Skybridge','Control Booth']}],[5,{order:good[5].order,destination:'Gear Gallery'}]]){ctx.n=n;ctx.a={...a,path:'',checked:false};assert.equal(run('evaluateMore(n,a).kind'),'retry');assert.match(run('evaluateMore(n,a).text'),/Give it another try :\)/);}
+ctx.a={...good[4],route:['Blue Arch','Prototype Plaza','Blue Arch','Workshop Hall','Ground Passage','Control Booth']};assert.equal(run('correctMore(4,a)'),true,'valid open detours accepted');
+function permutations(a){return a.length?a.flatMap((x,i)=>permutations(a.filter((_,j)=>i!==j)).map(p=>[x,...p])):[[]];}
+let count=0;for(const order of permutations(good[5].order)){ctx.a={order,destination:order[4]};if(run('correctMore(5,a)'))count++;}assert.equal(count,1,'five rules identify a unique order');
+assert.equal(run('unlocked(2)'),false);run("s.complete=true;s.verified=true;awardMission(1)");assert.equal(run('unlocked(2)'),true);assert.equal(run('unlocked(3)'),false);run('more[2].complete=true;more[2].verified=true;awardMission(2)');assert.equal(run('unlocked(3)'),true);
+// Render every screen and exercise checking, hints, invalidation and continuation.
+el('app').querySelectorAll=()=>[];el('app').querySelector=()=>null;
+for(const n of [2,3,4,5]){ctx.n=n;ctx.good=good[n];run('Object.assign(more[n],good,{path:"I tried a path",checked:true,complete:false,verified:false});extraMission(n)');assert.match(el('app').innerHTML,/YOUR GOAL/);el('check-answer').onclick();assert.equal(run('more[n].verified'),true);el('hint').onclick();assert.equal(run('more[n].hints'),1);el('continue').onclick();assert.equal(run('more[n].complete'),true);run('extraStory(n)');assert.match(el('app').innerHTML,/Compare paths/);run('extraMission(n)');el('path').oninput({target:{value:'A revision'}});assert.equal(run('more[n].verified'),false);assert.equal(el('continue').disabled,true);el('check-answer').onclick();el('continue').onclick();}
+run('reflection()');assert.match(el('app').innerHTML,/A strong thinker/);assert.match(el('app').innerHTML,/not automatically graded|paths you recorded/);
+console.log('Full Case 2: validators, all 120 route models, gates, screen rendering, hints, revision and reflection passed.');
