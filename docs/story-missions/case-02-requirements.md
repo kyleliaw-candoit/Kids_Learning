@@ -11,7 +11,8 @@ This document defines the boundaries for Case 02. It does not select a story, mi
 - Canonical-material review: **completed and approved**
 - Text-first Remy Character Lab: **completed and approved on 2026-09-13**
 - Educational architecture: **completed and approved on 2026-09-13** — see `case-02-educational-architecture.md`
-- Story concept and plan: **not started**
+- Story concept, structure, cast, and illustration-role plan: **completed and approved on 2026-09-13** — see `case-02-combined-educational-story-plan.md`
+- Visual style anchor: **next approval gate; not yet approved**
 
 ## 1. Purpose
 
@@ -280,11 +281,8 @@ Work should proceed in this order:
 
 These deliberately remain undecided and are not blockers to requirements approval:
 
-- Case 02 premise and setting;
-- story length and page count;
-- supporting cast;
-- grayscale versus limited color;
-- case-specific palette;
+- exact final page count after text-first layout testing;
+- final case-specific palette after style-anchor review;
 - exact visual style anchor.
 
 ## Resolved tensions
@@ -299,6 +297,6 @@ The Character Lab will strengthen Remy and clarify the optional character pool. 
 
 ## Approval record
 
-The user explicitly approved these Case 02 requirements on 2026-09-10.
+The user explicitly approved these Case 02 requirements on 2026-09-10 and approved the combined educational/story plan as written on 2026-09-13.
 
-This approval authorizes the next defined stages: re-read the current canonical materials, conduct the text-first Character Lab, design the educational architecture, and develop the combined educational/story plan. The canonical review and Character Lab have since been completed and approved. It does not authorize final illustration or PDF production before the later plan and style-anchor approval gates are satisfied.
+The canonical review, Character Lab, educational architecture, and combined educational/story plan have now been completed and approved. The next authorized stage is the small visual style anchor. It does not authorize complete story drafting, full illustration production, or PDF production before the style-anchor and later production gates are satisfied.
