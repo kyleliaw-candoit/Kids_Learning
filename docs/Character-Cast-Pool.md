@@ -19,16 +19,14 @@ The characters were created by Amira and reflect the kind of personality-driven 
 
 ## Optional characters
 
-### Sunburned Calamary
+### Sunburned Calamari
 
-A tanned squid who is carefree, playful, and quite smart.
+A tanned squid who is carefree, playful, and quite smart. His friends call him **Calamari**.
 
 - **Comic engine:** His confidence and appetite for risk lead him to underestimate what could happen next.
 - **Catchphrase:** “What could go wrong?”
 - **Recurring payoff:** Something then goes wrong.
 - **Potential story value:** Can propel the group into action, improvise clever solutions, or create a complication that requires recovery.
-
-The spelling **Calamary** is retained as supplied.
 
 ### Cammy Clammy
 
