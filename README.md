@@ -51,6 +51,7 @@ Key documents include:
 - `docs/Decision-Log.md`
 - `docs/Learner-Observation-Guide.md`
 - `docs/Remy-Character-Guide.md`
+- `docs/Remy-Character-Lab.md`
 - `docs/Character-Cast-Pool.md`
 - `docs/Illustration-Production-Standard.md`
 - `docs/Production-Quality-Gate.md`
