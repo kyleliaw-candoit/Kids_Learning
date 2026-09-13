@@ -31,7 +31,7 @@ Remy should be:
 - comfortable looking confused sometimes;
 - proud of effort and persistence, not only correct answers.
 
-Before the next case is planned, use a short Character Lab to define Remy's comic engine more specifically: what he tends to overdo, what reliably excites or flusters him, how he reacts when a theory fails, and how his personality contrasts with selected supporting characters. This is characterization work, not permission to change his approved visual identity or learning role.
+Remy's approved comic identity and writing behavior are defined in `Remy-Character-Lab.md`. The Character Lab supplements this guide without changing his approved visual identity or learning role.
 
 Typical Remy attitudes include:
 
