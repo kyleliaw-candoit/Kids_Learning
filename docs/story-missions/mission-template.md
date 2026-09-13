@@ -23,6 +23,18 @@ The task should preserve the project principle:
 
 Whenever useful, ask the learner to explain, draw, organize, test, or show the route before writing the final answer.
 
+Use the canonical kid-facing Thinking Detective Loop near the beginning of a case and reinforce the relevant step naturally within missions:
+
+> **Look for a fact or clue you can start with.**
+>
+> **Use it to try a path.**
+>
+> **Check your path.**
+>
+> **Revise if you need to.**
+
+Do not repeat the full loop so often that it becomes visual or verbal clutter. Consistent placement at the case opening and reflection, with selective mission-level reinforcement, is the default.
+
 ## Intended reasoning target
 
 What mental move is the mission actually designed to practice?
