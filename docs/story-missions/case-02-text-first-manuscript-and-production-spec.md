@@ -94,13 +94,15 @@ When you see **STOP & SOLVE**, pause the story and complete the mission.
 
 Optional hints are on pages 23–27. Use one only when you need help moving again.
 
+The characters have a deadline inside the story, but **your thinking is not timed**. Take as long as you need.
+
 ## Page 3 — Welcome to OddSpark
 
 ### Text
 
 # Welcome to OddSpark
 
-The OddSpark Invention Expo buzzed, clanked, flashed, and—near Booth 12—made a noise like a duck sneezing into a trumpet.
+At 2:25, the OddSpark Invention Expo buzzed, clanked, flashed, and—near Booth 12—made a noise like a duck sneezing into a trumpet.
 
 Remy the Raccoon adjusted his detective cap.
 
@@ -111,6 +113,12 @@ Remy the Raccoon adjusted his detective cap.
 She glanced toward the demonstration stage.
 
 “Some booths three times.”
+
+Above the stage, a sign announced:
+
+> **GOLDEN QUESTION MARK PRESENTATION — 3:00**
+
+In thirty-five minutes, the winning young inventor would receive the most important trophy at the fair.
 
 Onstage, Sunburned Calamari stood beside a compact delivery robot. His sunglasses rested above his eyes. His Hawaiian shirt had a few large flowers and no concern whatsoever.
 
@@ -160,6 +168,10 @@ Cammy looked at him. “Is that a real thing?”
 
 They hurried behind the curtain. Several observations waited there—but not all of them would help.
 
+Cammy checked the stage clock. **2:27.** If they did not recover the trophy before 3:00, the winner would step onto an empty stage.
+
+The clock was running for the detectives. It was not running for you.
+
 ## Page 5 — Mission 1: The First Useful Trail
 
 ### Mission identity
@@ -179,13 +191,13 @@ Remy found six facts. Which ones show where the team should investigate first?
 
 **A.** DASH-3's wheels have a double-chevron tread.
 
-**B.** Double-chevron tracks curve toward North Concourse.
+**B.** Fresh double-chevron tracks curve from the curtain toward North Concourse.
 
 **C.** The Service Passage door was locked before the demonstration. Its security seal is still unbroken.
 
 **D.** Calamari wore his sunglasses on top of his head.
 
-**E.** A blue balloon popped at 2:03.
+**E.** A blue balloon popped at 2:26.
 
 **F.** The trophy ribbon had one crooked loop.
 
@@ -248,6 +260,8 @@ Cammy checked her clipboard. “DASH-3 sends its distance from the demonstration
 One screen still showed the robot's last signal. Most of its numbers were missing.
 
 “A half-labeled tracker,” Remy whispered. “Very clue-ish.”
+
+The stage clock now read **2:32**.
 
 ## Page 8 — Mission 2: The Half-Labeled Tracker
 
@@ -339,7 +353,11 @@ The signal sat at 75 meters.
 
 The team raced past the Gear Gallery, a self-folding chair, and a machine that applauded whenever anyone walked by.
 
-At Prototype Plaza, DASH-3 was gone. But a narrow paper strip curled from a diagnostic printer.
+At Prototype Plaza, DASH-3 was gone. A booth attendant pointed in two directions at once.
+
+“It rolled toward the Charging Dock,” she said. “Or maybe away from it. It made three extremely precise turns.”
+
+Beside her, a narrow paper strip curled from a diagnostic printer.
 
 Remy studied it through his magnifying glass, even though the words were large enough to read from several steps away.
 
@@ -370,14 +388,16 @@ Remy's theory:
 
 Before promoting this to an Official Final Theory, test it against the diagnostic record.
 
-### DASH-3 diagnostic record
+### Evidence packet
 
-| System | Record |
+| Evidence | Record |
 | --- | --- |
-| Power | NORMAL |
-| Remote connection | NONE |
+| Current power | 78% |
+| Automatic charging rule | Return only below 20% |
+| Remote commands during this trip | 0 |
 | Operating mode | DELIVERY |
-| Route status | ACTIVE |
+| Route status | STOP 2 OF 5 — ACTIVE |
+| Witness observation | Three precise turns near the Charging Dock |
 
 ### Three explanations
 
@@ -389,7 +409,7 @@ Before promoting this to an Official Final Theory, test it against the diagnosti
 
 ### STOP & SOLVE
 
-Check all three explanations. Find the first record that supports or breaks each one.
+Each explanation has something that makes it sound possible. Check all three against the complete evidence packet. Find the first record that supports or breaks each one.
 
 ## Page 12 — Mission 3 Working Page and Unlock
 
@@ -417,13 +437,13 @@ Open writing region.
 
 # Your Answer
 
-**The explanation that fits all four records is:** ______________________
+**The explanation that fits the complete evidence packet is:** ______________________
 
 ### Story unlock
 
 After the learner engages with the check, reveal this short continuation at the bottom or on a covered/page-turn region:
 
-Remy looked from **REMOTE CONNECTION: NONE** to **OPERATING MODE: DELIVERY**.
+Remy looked from **REMOTE COMMANDS THIS TRIP: 0** to **OPERATING MODE: DELIVERY**.
 
 “That fact just poked a hole in my theory,” he said.
 
@@ -433,7 +453,13 @@ He drew one line through **ROBOT TROPHY SYNDICATE**, but did not erase it.
 
 “To where?” asked Calamari.
 
-The diagnostic strip had no destination.
+Remy pointed to **STOP 2 OF 5**.
+
+“And he is not taking a direct route. He has three scheduled stops left.”
+
+The diagnostic strip had no destination. The only place that could read the full route was the Expo Control Booth.
+
+The stage clock clicked to **2:40**.
 
 ## Page 13 — The Interception Plan
 
@@ -455,6 +481,8 @@ She traced a route on the fair map.
 “An elegant plan,” said Remy.
 
 “A plan with only four opportunities for disaster,” said Cammy. “Very restful.”
+
+Calamari studied the narrow service routes. “DASH-3 was built to fit through those. If we find an open one, I can unlock its maintenance doors.”
 
 They reached Blue Arch.
 
@@ -552,7 +580,7 @@ Their goal stayed the same.
 
 “We changed the broken part,” said Remy, “without throwing the entire plan into a dramatic trash can.”
 
-At the Control Booth, Calamari sent the recall command.
+At **2:47**, the team reached the Control Booth. Calamari used his inventor key to wake the route terminal and sent the recall command.
 
 The screen replied:
 
@@ -561,8 +589,10 @@ The screen replied:
 Then Calamari opened DASH-3's delivery record.
 
 > **ITEM: FINAL PRIZE**  
+> **ROUTE: STOP 4 OF 5**  
 > **DESTINATION: F-5**  
-> **STATUS: AWAITING DELIVERY**
+> **DELIVERY DUE: 2:58**  
+> **STATUS: ACTIVE**
 
 Calamari lowered his sunglasses.
 
@@ -576,7 +606,7 @@ Remy's ears lifted. “DASH-3 scanned the wrong FINAL PRIZE.”
 
 They knew **why** the trophy had disappeared.
 
-Now they had to determine where **F-5** was.
+Now they had eleven minutes and one mystery left: where was **F-5**?
 
 ## Page 17 — The Broken Directory
 
@@ -694,21 +724,25 @@ From somewhere beyond the hall came a small electronic voice.
 
 “DELIVERY WAITING. SIGNATURE REQUIRED.”
 
+The stage clock read **2:55**.
+
+At Final Station, a miniature train circled a tiny platform beneath a sign reading **LAST-CAR CHALLENGE**.
+
+DASH-3 stood beside it, attempting to place the enormous Golden Question Mark trophy next to a train no taller than Remy's detective notebook.
+
+“DELIVERY WAITING,” he repeated. “SIGNATURE REQUIRED.”
+
+Calamari signed the screen at **2:58**.
+
+DASH-3 released the trophy and played a two-second victory tune.
+
 ## Page 21 — Finale: Case Closed
 
 ### Text
 
 # Case Closed
 
-At Final Station, a miniature train circled a tiny platform.
-
-DASH-3 stood beside it, holding the Golden Question Mark trophy perfectly still.
-
-“DELIVERY WAITING,” he repeated. “SIGNATURE REQUIRED.”
-
-Calamari signed the screen.
-
-DASH-3 released the trophy and played a two-second victory tune.
+“The silver demonstration parcel contains a tiny golden caboose,” Calamari said. “It is the final prize for the Last-Car Challenge. That is why its label says FINAL PRIZE.”
 
 Cammy reviewed the evidence.
 
@@ -727,6 +761,18 @@ Cammy handed Calamari a form titled:
 **PREVENTING THIS EXACT SITUATION NEXT TIME**
 
 It was six pages long.
+
+“Before we call the case closed,” said Remy, “one final check.”
+
+Together they confirmed that the wheel tracks, tracker, diagnostic record, route change, duplicate labels, and F-stop model all agreed.
+
+Calamari tapped **EXPRESS RETURN**. DASH-3 lifted the trophy again—this time on purpose—and rolled toward the main stage.
+
+At exactly 3:00, the winning inventor received the Golden Question Mark.
+
+Remy wrote **CASE CLOSED** in his notebook.
+
+Then, after a thoughtful pause, he added a very small question mark.
 
 ## Page 22 — Thinking Detective Debrief
 
@@ -816,15 +862,15 @@ Do not decide which explanation sounds most exciting. Compare each explanation w
 
 ### Hint 2 — Structure
 
-For each explanation, ask: “What would I expect the record to say if this were true?”
+For each explanation, ask: “Which evidence makes this sound possible, and which evidence would have to be true for the whole explanation to work?”
 
 ### Hint 3 — Directional
 
-A recharge explanation must fit the power record. A remote-control explanation must fit the connection record.
+A recharge explanation must fit both the current power and automatic-charging rule. A remote-control explanation must fit the trip's command record. Precise turns alone do not prove either explanation.
 
 ### Strong hint
 
-Power is normal, so DASH-3 did not need to recharge. The remote connection is none, so no one is steering it remotely. Delivery mode is active.
+DASH-3 has 78% power and returns to charge only below 20%, so it did not need to recharge. The trip received zero remote commands, so no one is steering it remotely. Delivery mode and a five-stop route are active.
 
 ## Page 26 — Hints for Mission 4
 
@@ -897,7 +943,7 @@ Investigate **North Concourse**.
 ### Necessary and supporting facts
 
 - A identifies DASH-3's tread.
-- B matches the tread and provides a direction.
+- B matches the tread, identifies the tracks as fresh, and provides a direction.
 - C rules out the alternate Service Passage and strengthens the conclusion.
 - D, E, and F are true or plausible but do not answer the immediate question.
 
@@ -986,13 +1032,19 @@ Do not decide from one attempt whether Scale & Interval Reasoning should become 
 
 ### Intended conclusion
 
-Explanation C—DASH-3 is completing a programmed delivery—fits all four records.
+Explanation C—DASH-3 is completing a programmed delivery—fits the complete evidence packet.
 
-### Checks
+### Why each explanation initially sounds possible
 
-- **A: Recharge** conflicts with `POWER: NORMAL`.
-- **B: Remote control** conflicts with `REMOTE CONNECTION: NONE`.
-- **C: Programmed delivery** agrees with `OPERATING MODE: DELIVERY` and `ROUTE STATUS: ACTIVE`, while contradicting no other record.
+- The witness saw DASH-3 near the Charging Dock, which makes recharging sound possible.
+- Three precise turns might look like remote steering.
+- The delivery record supports a programmed route.
+
+### Complete checks
+
+- **A: Recharge** conflicts with the combination of `CURRENT POWER: 78%` and `RETURN ONLY BELOW 20%`.
+- **B: Remote control** conflicts with `REMOTE COMMANDS DURING THIS TRIP: 0`.
+- **C: Programmed delivery** agrees with `OPERATING MODE: DELIVERY` and `ROUTE STATUS: STOP 2 OF 5 — ACTIVE`, while contradicting no other record.
 
 ### Valid paths
 
@@ -1094,8 +1146,10 @@ DASH-3 was functioning correctly but responding to ambiguous labeling:
 2. Both the intended parcel and the trophy matched that description.
 3. The trophy was closer to the scanner.
 4. DASH-3 collected the trophy.
-5. The route model identifies F-5 as Final Station.
-6. DASH-3 waited there for the required signature.
+5. The programmed demonstration used a five-stop route ending at Final Station.
+6. The intended silver parcel contained the tiny final prize for Final Station's Last-Car Challenge.
+7. The route model identifies F-5 as Final Station.
+8. DASH-3 waited there for the required signature.
 
 All necessary evidence appears before the final explanation.
 
@@ -1119,6 +1173,8 @@ Note whether Amira:
 - laughs at or remembers a character moment;
 - sees Remy as capable despite his revised theory;
 - understands Calamari and Cammy's contrasting habits;
+- feels story urgency from the approaching presentation without feeling personally timed;
+- understands that the five-stop route changes the chase rather than merely extending it;
 - rushes through a mission to reach the story;
 - finds any story segment too long.
 
@@ -1192,7 +1248,7 @@ Large open region for observations, exact learner quotes, hint usage, frustratio
 | CR-3 | 12 | Character reaction | Remy crosses out—not erases—his theory | Small vignette |
 | SA-4 | 13 | Story/complication | Foam volcano closes skybridge | Medium action; restrained foam shapes |
 | CR-4 | 16 | Character reaction | Calamari lowers sunglasses at matching-label realization | Small vignette |
-| SA-5 | 21 | Story/finale | DASH-3 waits beside miniature train with trophy | Medium focal group; simplified station |
+| SA-5 | 20 | Story/finale reveal | DASH-3 attempts to place the oversized trophy beside the miniature Last-Car Challenge train | Medium focal group; simplified station |
 
 Generated story art must not be used to supply exact facts that are absent from constructed learner graphics or text.
 
@@ -1226,10 +1282,10 @@ Generated story art must not be used to supply exact facts that are absent from 
 - The answer is 20
 - Keep visually secondary to the main task
 
-### FG-3A — Diagnostic record
+### FG-3A — Evidence packet
 
-- Four rows: Power, Remote connection, Operating mode, Route status
-- Values exactly: NORMAL, NONE, DELIVERY, ACTIVE
+- Six rows: Current power, Automatic charging rule, Remote commands during this trip, Operating mode, Route status, Witness observation
+- Values exactly: `78%`; `Return only below 20%`; `0`; `DELIVERY`; `STOP 2 OF 5 — ACTIVE`; `Three precise turns near the Charging Dock`
 - High contrast and clear row association
 - No fake buttons, meters, or warning icons that introduce new evidence
 
@@ -1296,6 +1352,7 @@ Before final illustration or PDF work begins, verify:
 8. The hint ladders progress from attention to stronger structure.
 9. The grown-up guide recognizes thinking behavior rather than correctness alone.
 10. The complete visual inventory is necessary; remove any illustration without a clear role.
+11. The fictional deadline creates narrative urgency without implying that the learner's reasoning is timed.
 
 ## Approval gate
 
