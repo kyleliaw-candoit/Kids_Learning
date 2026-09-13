@@ -2,9 +2,9 @@
 
 ## Status
 
-**Approved on 2026-09-13.**
+**Combined plan approved on 2026-09-13. Visual style anchor approved on 2026-09-13.**
 
-This document maps the approved Case 02 educational architecture onto the approved story concept for **The Case of the Runaway Robot**. It authorizes development of the small visual style anchor. It does not authorize complete story drafting, full illustration production, or PDF production before the remaining approval gates are satisfied.
+This document maps the approved Case 02 educational architecture onto the approved story concept for **The Case of the Runaway Robot**. The approved visual style anchor is stored at `../../assets/style-anchors/Case02_Style_Anchor_001.jpg`. Complete story drafting, full illustration production, and PDF production still require explicit authorization.
 
 ## Case identity
 
@@ -53,15 +53,19 @@ Calamari creates the inciting complication through confident under-planning, but
 
 Use **“What could go wrong?”** once, immediately before the inciting incident. Do not repeat it mechanically.
 
+Approved Case 02 visual design: pointed squid-shaped head; coral/tanned coloring; casual sunglasses; a low-detail Hawaiian shirt with a sparse, simple pattern; plain shorts; flip-flops; exactly two human-like arms and hands; exactly two human-like legs; and no additional tentacles or appendages.
+
 ### Cammy Clammy
 
 Cammy's careful records and attention to risks contribute materially to the investigation. Her caution should sometimes be excessive and sometimes exactly what the team needs.
 
 Use **“Let me overthink this…”** sparingly. Do not make Cammy helpless, permanently frightened, or the automatic source of every correct answer.
 
+Approved Case 02 visual design: retain her expressive clam-shell head, glasses, and cautious body language; use a simple professional coat or jacket with broad flat color areas and no plaid, woven texture, dense crosshatching, or unnecessary garment detail.
+
 ### DASH-3
 
-DASH-3 is consistent rather than chaotic. The robot follows a literal delivery rule and does not behave randomly whenever the plot needs a complication.
+DASH-3 is consistent rather than chaotic. The robot follows a literal delivery rule and does not behave randomly whenever the plot needs a complication. His visual design in the approved style anchor was accepted without revision and should be preserved.
 
 ## Mystery logic
 
@@ -289,7 +293,7 @@ No generated story illustration may serve as the sole source for exact puzzle in
 
 ## Visual direction and style anchor
 
-The recommended Case 02 direction is limited color:
+The approved Case 02 direction is limited color:
 
 - charcoal linework;
 - muted teal;
@@ -297,9 +301,9 @@ The recommended Case 02 direction is limited color:
 - one restrained coral accent;
 - off-white paper tone.
 
-The exact palette remains provisional until style-anchor approval.
+This palette and the anchor's simplified texture level, clean silhouettes, and quiet background hierarchy are approved for Case 02.
 
-Before full illustration production, create one compact anchor sheet that tests:
+The approved compact anchor sheet demonstrates:
 
 1. Remy in three expressions or poses, including enthusiasm, premature certainty, and healthy revision;
 2. Calamari and Cammy in a small interaction with clearly contrasting acting;
@@ -307,7 +311,9 @@ Before full illustration production, create one compact anchor sheet that tests:
 4. one simplified OddSpark Expo background cue;
 5. restrained palette, negative space, and readability at expected print size.
 
-The anchor is an implementation experiment, not a final story illustration or permission to produce the complete illustration set.
+Canonical asset: `assets/style-anchors/Case02_Style_Anchor_001.jpg`.
+
+The anchor is a visual production reference, not a final story illustration. Its approval does not by itself authorize complete story drafting, full illustration production, or PDF production.
 
 ## Provisional package structure
 
@@ -349,6 +355,6 @@ In addition to the observation targets in the educational architecture, observe 
 
 ## Approval and next gate
 
-The user approved this combined educational/story plan as written on 2026-09-13.
+The user approved this combined educational/story plan as written on 2026-09-13 and approved the refined visual style anchor on the same date.
 
-The next authorized stage is the small visual style anchor. Complete story drafting, full illustration production, and PDF production remain blocked until the style anchor is approved and the subsequent production stage is explicitly authorized.
+The next stage is a text-first learner and grown-up manuscript plus page-by-page production specification. Begin that stage only after explicit authorization. Full illustration production and PDF generation remain later activities subject to the complete Production Quality Gate.
