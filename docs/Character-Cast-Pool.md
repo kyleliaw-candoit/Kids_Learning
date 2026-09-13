@@ -19,16 +19,14 @@ The characters were created by Amira and reflect the kind of personality-driven 
 
 ## Optional characters
 
-### Sunburned Calamary
+### Sunburned Calamari
 
-A tanned squid who is carefree, playful, and quite smart.
+A tanned squid who is carefree, playful, and quite smart. His friends call him **Calamari**.
 
 - **Comic engine:** His confidence and appetite for risk lead him to underestimate what could happen next.
 - **Catchphrase:** “What could go wrong?”
 - **Recurring payoff:** Something then goes wrong.
 - **Potential story value:** Can propel the group into action, improvise clever solutions, or create a complication that requires recovery.
-
-The spelling **Calamary** is retained as supplied.
 
 ### Cammy Clammy
 
@@ -61,14 +59,8 @@ A farting pufferfish.
 
 Use the gag selectively so it remains surprising and does not overwhelm the mystery or reasoning task.
 
-## Character Lab before Case 02 planning
+## Approved Remy Character Lab
 
-After the Case 02 requirements are approved—and before its educational/story plan is developed—run a short Character Lab:
+The text-first Character Lab was approved on 2026-09-13 and is documented in `Remy-Character-Lab.md`. It defines Remy's stronger comic identity and evaluates potential contrasts with this optional pool.
 
-1. define Remy's stronger comic identity without changing his learning role;
-2. review these optional characters for fit with the future case;
-3. identify useful personality contrasts and story functions;
-4. choose only the minimum cast the case needs;
-5. test a small middle-grade visual style anchor before full illustration production.
-
-No character in this pool is approved for Case 02 merely by appearing in this document.
+No supporting character was selected for Case 02 by the Character Lab. Choose only the minimum cast the future educational/story plan needs. The small middle-grade visual style anchor remains a later approval gate before full illustration production.
