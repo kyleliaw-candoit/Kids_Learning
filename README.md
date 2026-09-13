@@ -59,6 +59,7 @@ Key documents include:
 - `docs/Illustration-Production-Standard.md`
 - `docs/Production-Quality-Gate.md`
 - `docs/production-notes/Case1_UpsideDownMap_002-QA.md`
+- `docs/production-notes/Case02_Preproduction_Content_QA.md`
 
 ## Working principle
 
