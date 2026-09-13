@@ -21,3 +21,9 @@ Files in `missions-in-story/` combine a self-contained story with multiple Think
 
 Canonical recurring-character references remain in `remy/`.
 
+## Style Anchors
+
+Approved case-specific visual references are stored in `style-anchors/`:
+
+- `Case02_Style_Anchor_001.jpg` — approved character, palette, texture, and background treatment for *The Case of the Runaway Robot*
+
