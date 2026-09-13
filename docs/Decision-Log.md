@@ -250,3 +250,17 @@ The complete approved architecture is documented in `docs/story-missions/case-02
 **Why:** Amira struggled to infer that an unlabeled bar-chart reference line represented 25 when labeled lines showed 0, 50, and 100 at alternating equal intervals. The observed challenge coordinated visual representation, anchor selection, equal intervals, and decomposition rather than merely calculating half of 50. The capability transfers to number lines, timelines, rulers, thermometers, maps, gauges, and other scaled representations.
 
 **Evaluation rule:** Observe Case 02 use before deciding whether this should become a permanent standalone dimension or be represented as a combination of existing dimensions.
+
+---
+
+## 2026-09-13 — Approve The Case of the Runaway Robot plan
+
+**Decision:** Use *The Case of the Runaway Robot* as the Case 02 story. Set it at the OddSpark Invention Expo with Remy, Sunburned Calamari, Cammy Clammy, and Calamari's delivery robot DASH-3. Map the five approved missions onto the investigation without changing their Primary or Secondary Thinking Dimensions.
+
+**Mystery resolution:** DASH-3 takes the Golden Question Mark trophy because both the trophy and Calamari's intended demonstration parcel are labeled **FINAL PRIZE**. The robot scans the nearer matching label and delivers the trophy to F-5, which the learner identifies as Final Station by constructing a model from constraints.
+
+**Why:** The premise creates natural uses for fact selection, a partially labeled tracking scale, evidence checking, route-plan revision, and model building. The three speaking characters have distinct reasoning habits: Remy reaches plausible conclusions too early, Calamari starts boldly without enough checking, and Cammy carefully tracks constraints. Their contrast creates humor that supports the learning philosophy instead of interrupting it.
+
+**Production gate:** The approved plan authorizes only the next small visual style anchor. Complete story drafting, full illustration production, and PDF production remain blocked pending later approval.
+
+The complete approved plan is documented in `docs/story-missions/case-02-combined-educational-story-plan.md`.
