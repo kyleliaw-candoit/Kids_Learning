@@ -9,7 +9,6 @@ The Primary dimension should drive problem design. Secondary dimensions should d
 
 This tagging rule is intended to make the mission library auditable: we should be able to see which thinking capabilities are well represented, which are underrepresented, and deliberately create more missions in a chosen dimension.
 
-
 ## Provisional dimension under test
 
 ### Scale & Interval Reasoning
