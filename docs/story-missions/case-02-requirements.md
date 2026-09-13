@@ -6,6 +6,13 @@
 
 This document defines the boundaries for Case 02. It does not select a story, missions, setting, or cast.
 
+## Progress
+
+- Canonical-material review: **completed and approved**
+- Text-first Remy Character Lab: **completed and approved on 2026-09-13**
+- Educational architecture: **not started**
+- Story concept and plan: **not started**
+
 ## 1. Purpose
 
 Case 02 should continue developing Amira's general problem-solving confidence and reasoning ability through a self-contained mystery or adventure.
@@ -260,7 +267,7 @@ Work should proceed in this order:
 
 1. Approve these Case 02 requirements.
 2. Re-read the current canonical repository materials.
-3. Conduct the text-first Character Lab.
+3. Conduct and approve the text-first Character Lab. **Completed 2026-09-13.**
 4. Design the educational architecture.
 5. Develop the story concept, structure, cast, and illustration plan.
 6. Present the combined educational/story plan for approval.
@@ -279,7 +286,6 @@ These deliberately remain undecided and are not blockers to requirements approva
 - difficulty progression;
 - story length and page count;
 - supporting cast;
-- exact Remy comic habits;
 - grayscale versus limited color;
 - case-specific palette;
 - badge implementation;
@@ -299,4 +305,4 @@ The Character Lab will strengthen Remy and clarify the optional character pool. 
 
 The user explicitly approved these Case 02 requirements on 2026-09-10.
 
-This approval authorizes the next defined stages: re-read the current canonical materials, conduct the text-first Character Lab, design the educational architecture, and develop the combined educational/story plan. It does not authorize final illustration or PDF production before the later plan and style-anchor approval gates are satisfied.
+This approval authorizes the next defined stages: re-read the current canonical materials, conduct the text-first Character Lab, design the educational architecture, and develop the combined educational/story plan. The canonical review and Character Lab have since been completed and approved. It does not authorize final illustration or PDF production before the later plan and style-anchor approval gates are satisfied.
