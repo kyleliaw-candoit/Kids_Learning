@@ -229,3 +229,24 @@ The approved characterization, voice bank, habits, learner relationship, guardra
 **Decision:** The character's full name is **Sunburned Calamari**. His friends call him **Calamari**.
 
 **Why:** This corrects the earlier misspelling “Calamary” and preserves the creator's intended character name and everyday nickname.
+
+
+---
+
+## 2026-09-13 — Use a five-mission educational spine for Case 02
+
+**Decision:** Case 02 will use five missions with this Primary Thinking Dimension sequence: Useful-Fact & Anchor Finding; Scale & Interval Reasoning; Checking & Error Detection; Strategy Revision; and Representation & Model Building.
+
+**Why:** No available Case 01 observation indicates that five missions caused fatigue. This sequence elevates capabilities that were previously supporting behaviors, directly targets an observed difficulty with partially labeled scales, builds a confidence progression from finding a foothold through revising a path, and ends with a transfer test for Representation & Model Building. Five remains a Case 02 choice rather than a permanent chapter standard.
+
+The complete approved architecture is documented in `docs/story-missions/case-02-educational-architecture.md`.
+
+---
+
+## 2026-09-13 — Test Scale & Interval Reasoning as a provisional dimension
+
+**Decision:** Define **Scale & Interval Reasoning** provisionally as the ability to infer the value of equal spaces or units from labeled reference points and then use that unit to interpret an unlabeled position. Use it as the Primary Thinking Dimension for Case 02 Mission 2.
+
+**Why:** Amira struggled to infer that an unlabeled bar-chart reference line represented 25 when labeled lines showed 0, 50, and 100 at alternating equal intervals. The observed challenge coordinated visual representation, anchor selection, equal intervals, and decomposition rather than merely calculating half of 50. The capability transfers to number lines, timelines, rulers, thermometers, maps, gauges, and other scaled representations.
+
+**Evaluation rule:** Observe Case 02 use before deciding whether this should become a permanent standalone dimension or be represented as a combination of existing dimensions.
