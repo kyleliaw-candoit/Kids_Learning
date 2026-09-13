@@ -157,6 +157,7 @@ Checks performed:
 ## Path-before-answer and confidence check
 
 - Every mission places **Show Your Path** before **Your Answer**.
+- The case opening uses the canonical kid-facing Thinking Detective Loop: look for a fact or clue, use it to try a path, check the path, and revise if needed.
 - Missions accept drawings, lists, arrows, tables, card arrangements, or explanations where appropriate.
 - Story continuation requires engagement, not perfect correctness.
 - Badge language recognizes observable thinking behaviors.
