@@ -264,3 +264,18 @@ The complete approved architecture is documented in `docs/story-missions/case-02
 **Production gate:** The approved plan authorizes only the next small visual style anchor. Complete story drafting, full illustration production, and PDF production remain blocked pending later approval.
 
 The complete approved plan is documented in `docs/story-missions/case-02-combined-educational-story-plan.md`.
+
+
+---
+
+## 2026-09-13 — Approve the Case 02 visual style anchor
+
+**Decision:** Approve `assets/style-anchors/Case02_Style_Anchor_001.jpg` as the visual production reference for *The Case of the Runaway Robot*.
+
+**Approved treatment:** Use simplified medium-detail hand-drawn characters, clean color shapes, restrained texture, expressive poses, purposeful negative space, a limited charcoal/teal/mustard/coral palette with a small purple Remy accent, and pale low-contrast expo setting cues.
+
+**Character refinements:** Remy's fur should not use dense repeated brush strokes. Sunburned Calamari has a pointed squid-shaped head, casual sunglasses, a simple-pattern Hawaiian shirt, shorts, flip-flops, exactly two human-like arms and hands, two human-like legs, and no tentacles. Cammy Clammy keeps her clam-shell head, glasses, and cautious expression but wears a simplified professional coat without plaid or fabric texture. DASH-3's proposed design is approved as shown.
+
+**Why:** The refined anchor preserves personality and middle-grade appeal while reducing visual noise and unnecessary production detail. It establishes a clearer hierarchy between expressive characters, important objects, and quiet background cues.
+
+**Gate:** The next stage is the text-first learner and grown-up manuscript plus page-by-page production specification and awaits explicit authorization. Full illustration production and PDF generation remain later stages.
