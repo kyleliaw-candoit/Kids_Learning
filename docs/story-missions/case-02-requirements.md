@@ -10,7 +10,7 @@ This document defines the boundaries for Case 02. It does not select a story, mi
 
 - Canonical-material review: **completed and approved**
 - Text-first Remy Character Lab: **completed and approved on 2026-09-13**
-- Educational architecture: **not started**
+- Educational architecture: **completed and approved on 2026-09-13** — see `case-02-educational-architecture.md`
 - Story concept and plan: **not started**
 
 ## 1. Purpose
@@ -90,7 +90,7 @@ The Character Lab may strengthen Remy's characterization but must not turn him i
 
 ## 6. Supporting-character requirements
 
-Sunburned Calamary, Cammy Clammy, Frank, and Steve are optional cast resources.
+Sunburned Calamari, Cammy Clammy, Frank, and Steve are optional cast resources.
 
 Case 02 must not:
 
@@ -268,7 +268,7 @@ Work should proceed in this order:
 1. Approve these Case 02 requirements.
 2. Re-read the current canonical repository materials.
 3. Conduct and approve the text-first Character Lab. **Completed 2026-09-13.**
-4. Design the educational architecture.
+4. Design and approve the educational architecture. **Completed 2026-09-13.**
 5. Develop the story concept, structure, cast, and illustration plan.
 6. Present the combined educational/story plan for approval.
 7. Develop and approve the small visual style anchor.
@@ -281,14 +281,10 @@ Work should proceed in this order:
 These deliberately remain undecided and are not blockers to requirements approval:
 
 - Case 02 premise and setting;
-- mission count;
-- Primary and Secondary Thinking Dimensions;
-- difficulty progression;
 - story length and page count;
 - supporting cast;
 - grayscale versus limited color;
 - case-specific palette;
-- badge implementation;
 - exact visual style anchor.
 
 ## Resolved tensions
