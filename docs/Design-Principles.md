@@ -15,6 +15,18 @@ The challenge should come from questions such as:
 
 This prevents the project from becoming ordinary arithmetic practice.
 
+Use the canonical kid-facing loop to make the reasoning process tangible and repeatable:
+
+> **Look for a fact or clue you can start with.**
+>
+> **Use it to try a path.**
+>
+> **Check your path.**
+>
+> **Revise if you need to.**
+
+Keep this wording consistent across cases so it can become muscle memory rather than a new set of directions each time.
+
 ## 2. Ask for the path before the answer
 
 On the mission debrief, **Show Your Path** appears before **Your Answer**.

@@ -49,6 +49,7 @@ Key documents include:
 - `docs/story-missions/case-02-requirements.md`
 - `docs/story-missions/case-02-educational-architecture.md`
 - `docs/story-missions/case-02-combined-educational-story-plan.md`
+- `docs/story-missions/case-02-text-first-manuscript-and-production-spec.md`
 - `docs/Prototype-Problem-Catalog.md`
 - `docs/Decision-Log.md`
 - `docs/Learner-Observation-Guide.md`
@@ -58,6 +59,7 @@ Key documents include:
 - `docs/Illustration-Production-Standard.md`
 - `docs/Production-Quality-Gate.md`
 - `docs/production-notes/Case1_UpsideDownMap_002-QA.md`
+- `docs/production-notes/Case02_Preproduction_Content_QA.md`
 
 ## Working principle
 

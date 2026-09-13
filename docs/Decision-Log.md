@@ -265,6 +265,24 @@ The complete approved architecture is documented in `docs/story-missions/case-02
 
 The complete approved plan is documented in `docs/story-missions/case-02-combined-educational-story-plan.md`.
 
+---
+
+## 2026-09-13 — Adopt the kid-facing Thinking Detective Loop
+
+**Decision:** Use this exact learner-facing wording across Thinking Detectives cases:
+
+> **Look for a fact or clue you can start with.**
+>
+> **Use it to try a path.**
+>
+> **Check your path.**
+>
+> **Revise if you need to.**
+
+**Why:** The full reasoning philosophy needs a concrete form a child can recall when facing an unfamiliar challenge. “Look for a fact or clue” names an observable first action instead of asking the learner to find an abstract “somewhere” to start. Repeating the same four-step language across cases is intended to help the process become muscle memory.
+
+**Usage rule:** Present the complete loop near the beginning of a case, reinforce the relevant step selectively during missions, and return to the loop during reflection. Do not repeat it so frequently that it becomes clutter or loses meaning.
+
 
 ---
 

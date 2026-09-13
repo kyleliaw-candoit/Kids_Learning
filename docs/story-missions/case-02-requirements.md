@@ -13,7 +13,7 @@ This document defines the boundaries for Case 02. It does not select a story, mi
 - Educational architecture: **completed and approved on 2026-09-13** — see `case-02-educational-architecture.md`
 - Story concept, structure, cast, and illustration-role plan: **completed and approved on 2026-09-13** — see `case-02-combined-educational-story-plan.md`
 - Visual style anchor: **completed and approved on 2026-09-13** — see `../../assets/style-anchors/Case02_Style_Anchor_001.jpg`
-- Text-first manuscript and page-by-page production specification: **next stage; awaiting explicit authorization**
+- Text-first manuscript and page-by-page production specification: **drafted for review; awaiting approval** — see `case-02-text-first-manuscript-and-production-spec.md`
 
 ## 1. Purpose
 

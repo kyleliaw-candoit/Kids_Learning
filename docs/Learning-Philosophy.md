@@ -19,6 +19,22 @@ The learner should gradually internalize a repeatable loop:
 
 This is meant to model real-world problem solving, where the correct method is often not labeled in advance.
 
+### Kid-facing Thinking Detective Loop
+
+Use this shorter, concrete version consistently with learners:
+
+> **Look for a fact or clue you can start with.**
+>
+> **Use it to try a path.**
+>
+> **Check your path.**
+>
+> **Revise if you need to.**
+
+The wording should remain stable across cases so repeated use can become a thinking habit. A case may emphasize one step at a time, but the complete loop should appear near the beginning and return during reflection.
+
+“Fact or clue” may include a known value, relationship, constraint, example, pattern, reference point, or other useful piece of information. The learner is not expected to know the entire method before beginning.
+
 ## Productive struggle
 
 The learner should have enough difficulty to require real thought, but not so much that the experience becomes paralysis.
