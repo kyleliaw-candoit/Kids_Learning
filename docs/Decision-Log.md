@@ -250,3 +250,32 @@ The complete approved architecture is documented in `docs/story-missions/case-02
 **Why:** Amira struggled to infer that an unlabeled bar-chart reference line represented 25 when labeled lines showed 0, 50, and 100 at alternating equal intervals. The observed challenge coordinated visual representation, anchor selection, equal intervals, and decomposition rather than merely calculating half of 50. The capability transfers to number lines, timelines, rulers, thermometers, maps, gauges, and other scaled representations.
 
 **Evaluation rule:** Observe Case 02 use before deciding whether this should become a permanent standalone dimension or be represented as a combination of existing dimensions.
+
+---
+
+## 2026-09-13 — Approve The Case of the Runaway Robot plan
+
+**Decision:** Use *The Case of the Runaway Robot* as the Case 02 story. Set it at the OddSpark Invention Expo with Remy, Sunburned Calamari, Cammy Clammy, and Calamari's delivery robot DASH-3. Map the five approved missions onto the investigation without changing their Primary or Secondary Thinking Dimensions.
+
+**Mystery resolution:** DASH-3 takes the Golden Question Mark trophy because both the trophy and Calamari's intended demonstration parcel are labeled **FINAL PRIZE**. The robot scans the nearer matching label and delivers the trophy to F-5, which the learner identifies as Final Station by constructing a model from constraints.
+
+**Why:** The premise creates natural uses for fact selection, a partially labeled tracking scale, evidence checking, route-plan revision, and model building. The three speaking characters have distinct reasoning habits: Remy reaches plausible conclusions too early, Calamari starts boldly without enough checking, and Cammy carefully tracks constraints. Their contrast creates humor that supports the learning philosophy instead of interrupting it.
+
+**Production gate:** The approved plan authorizes only the next small visual style anchor. Complete story drafting, full illustration production, and PDF production remain blocked pending later approval.
+
+The complete approved plan is documented in `docs/story-missions/case-02-combined-educational-story-plan.md`.
+
+
+---
+
+## 2026-09-13 — Approve the Case 02 visual style anchor
+
+**Decision:** Approve `assets/style-anchors/Case02_Style_Anchor_001.jpg` as the visual production reference for *The Case of the Runaway Robot*.
+
+**Approved treatment:** Use simplified medium-detail hand-drawn characters, clean color shapes, restrained texture, expressive poses, purposeful negative space, a limited charcoal/teal/mustard/coral palette with a small purple Remy accent, and pale low-contrast expo setting cues.
+
+**Character refinements:** Remy's fur should not use dense repeated brush strokes. Sunburned Calamari has a pointed squid-shaped head, casual sunglasses, a simple-pattern Hawaiian shirt, shorts, flip-flops, exactly two human-like arms and hands, two human-like legs, and no tentacles. Cammy Clammy keeps her clam-shell head, glasses, and cautious expression but wears a simplified professional coat without plaid or fabric texture. DASH-3's proposed design is approved as shown.
+
+**Why:** The refined anchor preserves personality and middle-grade appeal while reducing visual noise and unnecessary production detail. It establishes a clearer hierarchy between expressive characters, important objects, and quiet background cues.
+
+**Gate:** The next stage is the text-first learner and grown-up manuscript plus page-by-page production specification and awaits explicit authorization. Full illustration production and PDF generation remain later stages.

@@ -63,4 +63,17 @@ Use the gag selectively so it remains surprising and does not overwhelm the myst
 
 The text-first Character Lab was approved on 2026-09-13 and is documented in `Remy-Character-Lab.md`. It defines Remy's stronger comic identity and evaluates potential contrasts with this optional pool.
 
-No supporting character was selected for Case 02 by the Character Lab. Choose only the minimum cast the future educational/story plan needs. The small middle-grade visual style anchor remains a later approval gate before full illustration production.
+The later approved Case 02 plan selected Sunburned Calamari and Cammy Clammy as the minimum supporting cast. Frank and Steve remain available for future cases.
+
+## Case 02 approved visual anchor
+
+The approved reference is `../assets/style-anchors/Case02_Style_Anchor_001.jpg`.
+
+Case 02 visual decisions:
+
+- **Remy:** Preserve his established identity while using clean fur color shapes and only a few deliberate texture marks rather than dense fur strokes.
+- **Sunburned Calamari:** Preserve the pointed squid-shaped head and coral/tanned coloring. Use casual sunglasses, a simple-pattern Hawaiian shirt, plain shorts, and flip-flops. His body has exactly two human-like arms and hands and two human-like legs; do not add tentacles or extra appendages.
+- **Cammy Clammy:** Preserve her clam-shell head, glasses, and cautious expression. Use a low-detail professional coat or jacket with broad flat color areas and no plaid or woven texture.
+- **DASH-3:** Preserve the approved compact delivery-robot design as shown.
+
+These are approved Case 02 production references. Future cases may reuse them when appropriate, but should still apply story-specific casting and observation rather than treating every detail as an untested universal standard.

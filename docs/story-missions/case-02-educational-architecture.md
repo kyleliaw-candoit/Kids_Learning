@@ -505,6 +505,6 @@ This architecture does not decide:
 
 ## Next approval gate
 
-The educational architecture is approved. The next phase may develop the Case 02 story concept, structure, cast, and illustration-role plan around this spine.
+The educational architecture is approved. The Case 02 story concept, structure, cast, and illustration-role plan were subsequently approved on 2026-09-13 and are documented in `case-02-combined-educational-story-plan.md`.
 
-The combined educational/story plan must be presented for approval before creating final illustrations or a PDF.
+The next authorized stage is the small visual style anchor. Complete story drafting, full illustration production, and PDF production remain blocked until the style anchor is approved and the subsequent production stage is explicitly authorized.

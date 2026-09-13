@@ -2,7 +2,7 @@
 
 ## Status
 
-**Approved — requirements approved on 2026-09-10. Case 02 may proceed to canonical-material review and the text-first Character Lab; later approval gates remain in force.**
+**Approved — requirements, Character Lab, educational architecture, combined story plan, and visual style anchor are approved. Full production awaits explicit authorization and the remaining quality gates.**
 
 This document defines the boundaries for Case 02. It does not select a story, missions, setting, or cast.
 
@@ -11,7 +11,9 @@ This document defines the boundaries for Case 02. It does not select a story, mi
 - Canonical-material review: **completed and approved**
 - Text-first Remy Character Lab: **completed and approved on 2026-09-13**
 - Educational architecture: **completed and approved on 2026-09-13** — see `case-02-educational-architecture.md`
-- Story concept and plan: **not started**
+- Story concept, structure, cast, and illustration-role plan: **completed and approved on 2026-09-13** — see `case-02-combined-educational-story-plan.md`
+- Visual style anchor: **completed and approved on 2026-09-13** — see `../../assets/style-anchors/Case02_Style_Anchor_001.jpg`
+- Text-first manuscript and page-by-page production specification: **next stage; awaiting explicit authorization**
 
 ## 1. Purpose
 
@@ -280,12 +282,8 @@ Work should proceed in this order:
 
 These deliberately remain undecided and are not blockers to requirements approval:
 
-- Case 02 premise and setting;
-- story length and page count;
-- supporting cast;
-- grayscale versus limited color;
-- case-specific palette;
-- exact visual style anchor.
+- exact final page count after text-first layout testing;
+- exact final page allocations after text-first layout testing.
 
 ## Resolved tensions
 
@@ -299,6 +297,6 @@ The Character Lab will strengthen Remy and clarify the optional character pool. 
 
 ## Approval record
 
-The user explicitly approved these Case 02 requirements on 2026-09-10.
+The user explicitly approved these Case 02 requirements on 2026-09-10 and approved the combined educational/story plan as written on 2026-09-13.
 
-This approval authorizes the next defined stages: re-read the current canonical materials, conduct the text-first Character Lab, design the educational architecture, and develop the combined educational/story plan. The canonical review and Character Lab have since been completed and approved. It does not authorize final illustration or PDF production before the later plan and style-anchor approval gates are satisfied.
+The canonical review, Character Lab, educational architecture, combined educational/story plan, and visual style anchor have now been completed and approved. The next stage is the text-first learner and grown-up manuscript plus page-by-page production specification, which awaits explicit authorization. Full illustration production and PDF production remain subject to the later production and QA gates.
