@@ -127,3 +127,20 @@ Before producing a full case:
 The illustrations produced for `Case1_UpsideDownMap_002.pdf` were accepted for that version, but learner feedback identified their densely detailed, colorful, uniformly picturesque treatment as feeling too much like a younger child's picture book. They are a production and continuity reference, not the visual target for the next case.
 
 Do not copy their background density, broad palette, or edge-to-edge finish literally. Future production should retain expressive hand-drawn characters and clear focal objects while using a more middle-grade visual language, restrained color, purposeful negative space, and simpler environmental detail.
+
+
+## Case 02 approved style anchor
+
+The approved Case 02 reference is `../assets/style-anchors/Case02_Style_Anchor_001.jpg`.
+
+It confirms the following implementation choices for *The Case of the Runaway Robot*:
+
+- simplify Remy's fur into clean value and color shapes with only a few purposeful texture marks;
+- simplify clothing into broad readable shapes and omit unnecessary fabric texture, seams, folds, and crosshatching;
+- use the limited charcoal, muted teal, warm mustard, restrained coral, small purple accent, and off-white palette;
+- preserve generous negative space and pale, low-contrast setting cues;
+- communicate personality primarily through silhouette, face, pose, and gesture rather than floating decorative symbols;
+- preserve DASH-3's approved compact, friendly robot design;
+- apply the exact Calamari and Cammy character decisions recorded in `Character-Cast-Pool.md`.
+
+This anchor refines the standard's meaning of medium detail: character identity and expression should be specific, but repeated fur strokes and garment textures should be removed when they do not communicate story or function.
