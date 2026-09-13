@@ -36,6 +36,8 @@ The repository records not only *what* is designed, but especially *why* each de
 
 Key documents include:
 
+- [Interactive Thinking Detectives: requirements and build standard](docs/interactive/BUILD-STANDARD.md)
+
 - `docs/Learning-Philosophy.md`
 - `docs/Design-Principles.md`
 - `docs/Thinking-Mission-Classification-Rule.md`
